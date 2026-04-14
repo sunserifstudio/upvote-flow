@@ -2,7 +2,7 @@
 
 ## What is Upvote Flow?
 
-Upvote Flow is a toolkit for Google Forms that lets your group, your friends or colleagues, share their ideas and upvote others' ideas all in the same form. After a user submits an idea or upvotes other users' ideas, then the form shows the number of votes for an idea or the new idea.
+Upvote Flow is a toolkit for Google Forms that lets your group, whether it's your friends or colleagues, share their ideas and upvote others all within the same form. After one user submits an idea, then the form updates showing the new idea ready for voting. After another user upvotes an idea, the form shows the updated number of upvotes for that idea. 
 
 ### Three Step Process
 - Set up your Google Form with the Upvote Flow toolkit
