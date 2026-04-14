@@ -17,6 +17,6 @@ Coordinating across systems sucks. I know, because I was an administrative assoc
 
 My goal with Upvote Flow is to help event organizers, whether you're planning a girl's trip, a work meeting or an upcoming sprint. I want to help you pinpoint your group's preferences without a lot of manual effort in coordinating. 
 
-I designed Upvote Flow to work with Google Form directly so that you can send people one link to a website they're already familiar with. 
+I designed Upvote Flow to work with Google Form directly so that you can send people one link to a website they're already familiar with and all they have to do is submit. 
 
 
