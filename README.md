@@ -11,7 +11,7 @@ Upvote Flow is a toolkit for Google Forms that lets your group, whether it's you
 
 ## Why does it exist? 
 
-Have you ever asked a group of people about their ideas? Multiple people had the same ideas but these ideas were scattered across Slack and text and email. Maybe you tried suggesting a special software to track them but no one used it because they were unfamiliar with it? 
+Have you ever asked a group of people about their ideas - maybe activities to do on vacation or what to talk about during a meeting? Multiple people had the same ideas but these ideas were scattered across Slack and text and email. Maybe you tried suggesting a special software to track them but no one used it because they were unfamiliar with it? 
 
 Coordinating across systems sucks. I know, because I was an administrative associate in higher ed and nonprofits before I transitioned into design and technology. 
 
