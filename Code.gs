@@ -140,9 +140,7 @@ function onFormSubmit(e) {
 function sendMonthlyExcel() {
 
   const recipients = [
-    "sarah.coloma@a1msolutions.com",
-    "makenzie.rollins@a1msolutions.com",
-    "kia.banton@cms.hhs.gov"
+    "youremail@genericemailprovider.com"
   ];
   const folderId = "1t7xhatv6RmAaV8z99gWACG3g591inR2S"; // replace with your folder's ID
 
